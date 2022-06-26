@@ -9,6 +9,7 @@ pix2pix_landusemap_to_aerialimage.ipynb
 
 # 本記事で利用したデータ
 本記事で利用する教師データは以下からダウンロードください。
+
 [https://drive.google.com/drive/folders/1vyyB6wYm8m8PGq7IC5Lkjv-EopN0frtE?usp=sharing](https://drive.google.com/drive/folders/1vyyB6wYm8m8PGq7IC5Lkjv-EopN0frtE?usp=sharing)
 
 利用しているデータは以下となります。
