@@ -9,15 +9,12 @@ pix2pix_landusemap_to_aerialimage.ipynb
 
 # 本記事で利用したデータ
 本記事で利用する教師データは以下からダウンロードください。
-
 [https://drive.google.com/drive/folders/1vyyB6wYm8m8PGq7IC5Lkjv-EopN0frtE?usp=sharing](https://drive.google.com/drive/folders/1vyyB6wYm8m8PGq7IC5Lkjv-EopN0frtE?usp=sharing)
 
 利用しているデータは以下となります。
-〇空中写真（国土画像情報）（1987年~1990年）
-[https://maps.gsi.go.jp/development/ichiran.html#gazo4](https://maps.gsi.go.jp/development/ichiran.html#gazo4)
+〇[空中写真（国土画像情報）（1987年~1990年）](https://maps.gsi.go.jp/development/ichiran.html#gazo4)
 出典：国土地理院ウェブサイト
-〇宅地利用調査（近畿圏、1991年）
-[https://maps.gsi.go.jp/development/ichiran.html#lum4bl2](https://maps.gsi.go.jp/development/ichiran.html#lum4bl2)
+〇[宅地利用調査（近畿圏、1991年）](https://maps.gsi.go.jp/development/ichiran.html#lum4bl2)
 出典：国土地理院ウェブサイト
 
 # ライセンス、利用規約
