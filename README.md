@@ -5,7 +5,7 @@
 簡単な塗り絵のような画像を作るだけで、お好みの衛星画像を生成するアルゴリズム制作にチャレンジしてみました。ハート形や六角形の池を作ることにも成功しています。
 
 # 本記事で利用したコード
-pix2pix_landusemap_to_aerialimage.ipynb
+[pix2pix_landusemap_to_aerialimage.ipynb](https://github.com/sorabatake/Pix2Pix/blob/main/pix2pix_landusemap_to_aerialimage.ipynb)
 
 # 本記事で利用したデータ
 本記事で利用する教師データは以下からダウンロードください。  
